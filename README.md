@@ -7,7 +7,7 @@
 <br>
 
 ![](https://img.shields.io/badge/-Python-green)
-![](https://visitor-badge.laobi.icu/badge?page_id=shashank088.VisualRecap)
+## ![](https://visitor-badge.laobi.icu/badge?page_id=shashank088.VisualRecap)
 
 ## About
 * Visual Recap is a video summarization application written in python. The logic of summarizatiom lies in Firefly Algorithm.
